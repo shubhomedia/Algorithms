@@ -17,3 +17,6 @@ Collection of Algorithms for Various type of works and purposes.
 ## Data Structure Algorithms
 1. Stack
 2. Queue
+
+## Machine Learning Algorithms for Data Science
+1. Linear Regression
