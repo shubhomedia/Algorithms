@@ -13,3 +13,7 @@ Collection of Algorithms for Various type of works and purposes.
 4. Merge Sort
 5. Quicksort
 6. Heap Sort
+
+## Data Structure Algorithms
+1. Stack
+2. Queue
