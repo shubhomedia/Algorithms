@@ -20,3 +20,5 @@ Collection of Algorithms for Various type of works and purposes.
 
 ## Machine Learning Algorithms for Data Science
 1. Linear Regression
+2. Logistic Regression
+3. KNN
