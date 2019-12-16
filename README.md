@@ -12,3 +12,4 @@ Collection of Algorithms for Various type of works and purposes.
 3. Bubble sort
 4. Merge Sort
 5. Quicksort
+6. Heap Sort
