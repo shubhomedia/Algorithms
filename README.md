@@ -22,3 +22,4 @@ Collection of Algorithms for Various type of works and purposes.
 1. Linear Regression
 2. Logistic Regression
 3. KNN
+4. K-means
